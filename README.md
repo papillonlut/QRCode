@@ -5,6 +5,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Made_with-%F0%9F%92%96-black?labelColor=%23ff007f&link=%23"/></a>
 </div>
 
+# Langage
+<div align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow">
+</div>
+
 # Générateur de QR Code<br>
 1. Installez les bibliothèques nécessaires<br>
     ```bash
